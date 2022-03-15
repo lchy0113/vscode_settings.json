@@ -16,6 +16,10 @@
 		".vscode-ctags": true,
 		"**/cscope.out": true,
 		"**/tags": true,
+		".repo": true,
+		"**/.gitignore": true,
+		"**/*.sh": true,
+		"**/*.dtb": true,
     },
     "files.watcherExclude": {
         "**/out": true,
