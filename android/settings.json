@@ -13,6 +13,9 @@
         "sdk": true,
         "toolchain": true,
         "test": true,
+		".vscode-ctags": true,
+		"**/cscope.out": true,
+		"**/tags": true,
     },
     "files.watcherExclude": {
         "**/out": true,
