@@ -1,6 +1,7 @@
 {
     "files.exclude": {
         "**/out": true,
+        "out": true,
         "art": true,
         "bionic": true,
         "compatibility": true,
@@ -18,7 +19,7 @@
         ".repo": true,
         "**/.gitignore": true,
         "**/*.dtb": true,
-        "**/cscope*.out": true,
+        "**/cscope*.out": true
     },
     "files.watcherExclude": {
         "**/out": true,
@@ -46,7 +47,7 @@
         "**/test": true,
         "**/toolchain": true,
         "**/tools": true,
-        "**/vendor": true,
+        "**/vendor": true
     },
     "files.associations": {
         "trace_00": "Log",
