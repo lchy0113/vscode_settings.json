@@ -1,5 +1,6 @@
 {
     "files.exclude": {
+        "**/build_linux_4.19.232": true,
         "**/out": true,
         "out": true,
         "art": true,
@@ -22,6 +23,7 @@
         "**/cscope*.out": true
     },
     "files.watcherExclude": {
+        "**/build_linux_4.19.232": true,
         "**/out": true,
         "**/abi": true,
         "**/art": true,
