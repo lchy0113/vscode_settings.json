@@ -2,7 +2,6 @@
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "sync.gist": "a6e55846cb6c547b5b1951e7136715ac",
-  "editor.fontSize": 10,
   "cmake.configureOnOpen": true,
   "files.maxMemoryForLargeFilesMB": 4096,
   "editor.tokenColorCustomizations": {
@@ -25,9 +24,23 @@
       "allowed": true
     }
   ],
-  "editor.formatOnSave": true,
   "C_Cpp.autoAddFileAssociations": false,
   "C_Cpp.formatting": "Disabled",
   "files.autoSave": "onWindowChange",
-  "github.gitProtocol": "ssh"
+  "github.gitProtocol": "ssh",
+  "scm.repositories.visible": 0,
+  "explorer.openEditors.visible": 0,
+  "gitHistory.alwaysPromptRepositoryPicker": true,
+  "window.titleBarStyle": "custom",
+  "workbench.iconTheme": "vs-minimal",
+  "files.exclude": {
+    "**/.o": true
+  },
+  "window.zoomLevel": -1,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.settings.applyToAllProfiles": [
+    "editor.fontFamily"
+  ],
+  "editor.fontFamily": "\"'Anonymous Pro', Consolas\" "
 }
